@@ -5,6 +5,8 @@
 
 #### [My Resume](https://sorenlaney.github.io/laney_s_resume/)
 
+#### [My Blog](sorenlaney.github.io/)
+
 
 ### Languages and Tools:
 
